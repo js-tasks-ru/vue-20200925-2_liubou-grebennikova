@@ -23,7 +23,7 @@ export const MeetupInfo = {
         required: true
       },
       date: {
-        type: Number,
+        type: Date,
         required: true
       },
     },
